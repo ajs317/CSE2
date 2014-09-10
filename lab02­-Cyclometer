@@ -1,0 +1,27 @@
+//Andrew Schillaci
+//Professor Chen
+//CSE 002 (Fundamentals of Programming)
+
+//purpose of this program is to print the number of minutes for each trip 2) print the number of counts for each trip
+//3)print the distance of each trip in miles 4)print the distance for the two trips combined
+
+//main method required for every program
+public class Cyclometer {
+    public static void main (String[] args) {
+    
+    int secsTrip1= 480;
+    int secsTrip2= 32220;
+    int countsTrip1= 1561;
+    int countsTrip2= 9037;
+    
+    double wheelDiameter=27.0;
+    PI=3.14159;
+    feetPerMile=5280;
+    inchesPerFoor=12;
+    secondsPerMinute=60;
+    double distanceTrip1, distanceTrip2, totalDistance;
+
+    
+    
+    }//end of class
+} //end of main method
